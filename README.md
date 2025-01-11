@@ -1,4 +1,4 @@
-- 👋Hi, I’m @Ronaldkim807 👋
+- 👋Hi, I’m Kimutai Ronald 👋
 
 👀 I’m interested in web development, UI/UX design, and creating innovative solutions through technology.
 🌱 I’m currently learning modern web technologies like React, Node.js, and improving my design skills with tools like Figma and Adobe XD.
