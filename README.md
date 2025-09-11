@@ -4,7 +4,7 @@
 🌱 I’m currently learning modern web technologies like React, Node.js, and improving my design skills with tools like Figma and Adobe XD.
 💞️ I’m looking to collaborate on open-source projects, web development, and design-related ventures that push the boundaries of user experience.
 📫 How to reach me:
-Email: kimutair123@gmail.com
+Email: kimutaironald48@gmail.com
 Phone: 0716012357
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love traveling, exploring new places, and combining my passion for design with travel experiences
