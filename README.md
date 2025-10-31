@@ -1,6 +1,6 @@
 - 👋Hi, I’m Kimutai Ronald 👋
 
-👀 I’m interested in web development, UI/UX design, and creating innovative solutions through technology.
+👀 I’m a software developer and junior cybersecurity analyst, and creating innovative solutions through technology using modern and AI technology.
 🌱 I’m currently learning modern web technologies like React, Node.js, and improving my design skills with tools like Figma and Adobe XD.
 💞️ I’m looking to collaborate on open-source projects, web development, and design-related ventures that push the boundaries of user experience.
 📫 How to reach me:
